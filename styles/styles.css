@@ -499,6 +499,7 @@ section {
 .contact-content-con .left-contact {
   justify-content: center; /* Horizontally center the flex items */
   align-items: center;
+  flex: 2;
 }
 .contact-content-con .left-contact h4 {
   margin-top: 1rem;

@@ -497,7 +497,8 @@ section {
   padding-top: 3.5rem;
 }
 .contact-content-con .left-contact {
-  flex: 2;
+  justify-content: center; /* Horizontally center the flex items */
+  align-items: center;
 }
 .contact-content-con .left-contact h4 {
   margin-top: 1rem;
